@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 👯 Skills / Languages
+## Skills / Languages
 
 - `<? php ?>` great
 - `{{ Laravel }}` great
@@ -15,7 +15,7 @@
 - Other skills not mentioned...
 
 
-## 💬 Portfoliooo 🎵 
+## Portfolios
 
 - shahcode.com
 - safagraph.com
