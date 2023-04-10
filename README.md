@@ -20,6 +20,7 @@
 - shahcode.com
 - safagraph.com
 - geevserver.com
+- shahinhost.com
 - udex.co.uk
 - kavax.co.uk
 - cartoonbebin.com
