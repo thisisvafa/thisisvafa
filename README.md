@@ -9,7 +9,7 @@
 - `node js` good
 - `JavaScript` & `$(jQuery)` good
 - `Vue.js` very good
-- `<HTML>` + `{CSS}` + `@Less` + `$Sass` great
+- `<HTML>` + `{CSS}` great
 - `DATABASE` & `SQL` very good
 - `Git` great
 - Other skills not mentioned...
@@ -24,5 +24,13 @@
 - udex.co.uk
 - kavax.co.uk
 - cartoonbebin.com
+- parsway.ir
+- arangpsc.com
+- iranirancode.ir
 - charkhooofalak.com
+- rasht-ic.ir
+- gilanianasnaf.ir
+- mammutco.ir
+- irsmartcity.ir
+- lepsicur.com
 - and more...
