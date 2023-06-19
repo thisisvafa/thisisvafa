@@ -24,6 +24,7 @@
 - udex.co.uk
 - kavax.co.uk
 - cartoonbebin.com
+- filimbebin.com
 - parsway.ir
 - arangpsc.com
 - iranirancode.ir
@@ -34,5 +35,6 @@
 - tootnet.net
 - irsmartcity.ir
 - lepsicur.com
+- hiradmehroriginal.ir
 - zemestaniha.ir
 - and more...
