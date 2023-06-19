@@ -19,6 +19,7 @@
 
 - shahcode.com
 - safagraph.com
+- castleco.ir
 - geevserver.com
 - shahinhost.com
 - udex.co.uk
@@ -37,4 +38,12 @@
 - lepsicur.com
 - hiradmehroriginal.ir
 - zemestaniha.ir
+- anzaliid.ir
+- avidp.com
+- supports.avidp.com
+- aghayevakil.guilanbar.ir
+- app.gohardani.ir
+- bahar360.ir
+- larus24.ir
+- spg24.ir
 - and more...
