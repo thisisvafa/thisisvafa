@@ -27,7 +27,7 @@
 - parsway.ir
 - arangpsc.com
 - iranirancode.ir
-- charkhooofalak.com
+- charkhooofalak.ir
 - rasht-ic.ir
 - gilanianasnaf.ir
 - mammutco.ir
