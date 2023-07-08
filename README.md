@@ -24,6 +24,7 @@
 - shahinhost.com
 - udex.co.uk
 - kavax.co.uk
+- canadafilmequipment.com
 - cartoonbebin.com
 - filimbebin.com
 - parsway.ir
