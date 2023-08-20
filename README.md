@@ -22,6 +22,8 @@
 - castleco.ir
 - geevserver.com
 - shahinhost.com
+- spadserver.com
+- spadpost.ir
 - udex.co.uk
 - kavax.co.uk
 - canadafilmequipment.com
