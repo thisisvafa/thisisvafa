@@ -42,6 +42,7 @@
 - lepsicur.com
 - hiradmehroriginal.ir
 - zemestaniha.ir
+- vestasoren.com
 - anzaliid.ir
 - avidp.com
 - supports.avidp.com
